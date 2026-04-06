@@ -4,6 +4,8 @@ A GUI-Based Quality-Of-Life Helper Tool for yt-dlp / YouTube Downloader
 
 A powerful, user-friendly YouTube downloader built on top of [yt-dlp](https://github.com/yt-dlp/yt-dlp), available as both a **GUI application** (Python/PySimpleGUI) and a **command-line batch script** (Windows).
 
+Please note that the bach file started life as a personal download helper tool, and it's currently just a snapshot of what turned out to be a very useful script-based automation tool! - As such, I've currently commented out parts of the script that *I* personally do not often use - feel free to uncomment options like TRUNCATE / SNIP, KEEP original MP3 / MP4 file (when extracting chapters etc), and so on...  😊
+
 Supports video, audio, chapter splitting, tracklist extraction, thumbnail embedding, and more — all with a clean dark-themed interface.
 
 ---
