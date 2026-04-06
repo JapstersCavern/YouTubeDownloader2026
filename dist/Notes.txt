@@ -1,0 +1,13 @@
+A pre-built executable version of the PYTHON-based version - basically, a quality of life file!
+
+(You'll still need a minimum of the following, to run this helper tool without errors!):
+
+So the minimal distribution package to use this pre-built app executable, would be just four files (No Python installation is needed (ie. to execute the dynamically-created `*PYTHON*` scripts), as it's built-in:
+
+📁 YouTubeDownloader2026\
+├── YouTubeDownloader2026.exe
+├── yt-dlp.exe
+├── deno.exe
+└── ffmpeg.exe
+
+Plus Firefox (at least, for now, until other browsers (that behave the same regarding not locking cookies while running) are supported as an option), installed and logged into YouTube — and that's it! 😊
