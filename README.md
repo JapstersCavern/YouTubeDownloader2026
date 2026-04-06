@@ -235,6 +235,8 @@ PySimpleGUI     → GUI framework (pip install PySimpleGUI==4.60.5)
 - **Personal use only** — please respect copyright and YouTube's terms of service
 - This tool is intended for downloading content you have the right to download (your own uploads, Creative Commons content, or content explicitly permitted for offline use)
 
+- `*VERY* IMPORTANT NOTE!` **Please do *NOT* be tempted to run multiple copies of this tool simultaneously from the SAME installed folder, to batch multi-task / process, at present!** - As the script currently generates `*SET NAMED*` helper *PYTHON* files, `LAST FOLDER` markers, etc, in the installation and/or temp folder, you *WILL* hit problems unless you code in your own changes (or *I* do, when time permits! 😉) to support doing this, or submitting multiple batch URL requests...
+
 ---
 
 ## 🙏 Credits
