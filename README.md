@@ -246,4 +246,4 @@ PySimpleGUI     → GUI framework (pip install PySimpleGUI==4.60.5)
 
 ---
 
-*Built with ❤️ and a lot of cyberpunk ambient music 🌃*
+*Built with ❤️ and a lot of Cyberpunk / Synthwave ambient music 🌃*
