@@ -69,7 +69,9 @@ Place all of the following in the **same folder**:
 
 ## 🔐 One-Time Setup: YouTube Authentication
 
-YouTube requires you to be logged in for many downloads. yt-dlp reads your Firefox session cookies to authenticate — you only need to do this **once**, and it persists until your session expires.
+YouTube requires you to be logged in for the most accessible experience. yt-dlp reads your Firefox session cookies to authenticate — you only need to do this **once**, and it persists until your logged in session data expires.
+
+*NOTE* - By this, I simply mean until your session DATA / COOKIE expires, not just any active browsing session / tab that you logged in on, then closed Firefox etc. This SAVED session data can theoretically be valid for weeks (or even months!), with no need to keep the tab (or Firefox) open (as is the case at the time of writing).
 
 ### Steps:
 1. Open **Firefox**
